@@ -1,0 +1,270 @@
+.sec1 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background: #252b42;
+}
+
+.blue {
+  background-color: #2091f9;
+}
+.white {
+  background-color: #ffffff;
+}
+
+.text {
+  text-align: center;
+}
+.text-color-white {
+  color: white;
+}
+.text-color-blue {
+  color: #2091f9;
+}
+.sec1 h2 {
+  font-family: "Geologica", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 55px;
+  /* identical to box height, or 115% */
+
+  text-align: center;
+  letter-spacing: 0.2px;
+
+  /* Light text */
+
+  color: #ffffff;
+}
+.h4-text {
+  margin-top: 14px;
+  font-family: "Geologica", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 40px;
+  /* or 143% */
+
+  text-align: center;
+  letter-spacing: 0.2px;
+
+  /* Light text */
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.sec1-gen {
+  margin-top: 80px;
+}
+.base {
+  border-radius: 10px;
+  text-align: center;
+}
+.base-row {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.base-h3 {
+  padding-top: 43px;
+  font-family: "Geologica", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  letter-spacing: 0.1px;
+
+  /* text */
+
+  /*color: #252b42;*/
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.base-h3-1 {
+  margin-top: -40px;
+  padding-top: 83px;
+  font-family: "Geologica", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  letter-spacing: 0.1px;
+
+  /* text */
+  /*color: #ffffff;*/
+  /*color: #252b42;*/
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.base-h6 {
+  font-family: "Geologica", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+  /* or 144% */
+
+  text-align: center;
+  letter-spacing: 0.1px;
+
+  /* second text */
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.price-value {
+  font-family: "Geologica", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 74px;
+  line-height: 84px;
+  /* identical to box height, or 114% */
+
+  letter-spacing: 0.2px;
+
+  /* text */
+
+  /*color: #252b42;*/
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.price-text {
+  margin-top: 13px;
+  font-family: "Geologica", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "PT Serif", serif;
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: left;
+  /* identical to box height, or 140% */
+
+  letter-spacing: 0.1px;
+
+  /* text */
+
+  /*color: #252b42;*/
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.price-text b {
+  margin-top: 10px;
+  font-family: "Geologica", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  letter-spacing: 0.1px;
+
+  /* text */
+
+  /*color: #252b42;*/
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.base-list {
+  padding-bottom: 30px;
+}
+.base-list-text {
+  display: block;
+  font-family: "Geologica", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  /* identical to box height, or 187% */
+
+  letter-spacing: 0.2px;
+
+  /* text */
+
+  /*color: #252b42;*/
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.base-btn {
+  border-radius: 35px;
+  padding-top: 18px;
+  margin-bottom: 40px;
+  margin-left: 15%;
+  margin-right: 15%;
+
+  font-family: "Geologica", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  /* identical to box height, or 100% */
+
+  letter-spacing: 0.2px;
+
+  /* Light text */
+}
+.moq {
+  height: 40;
+}
+.moq-1 {
+  height: 80;
+  padding-bottom: 40px;
+}
